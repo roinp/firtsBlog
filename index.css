@@ -1,0 +1,161 @@
+body {
+    background-color:rgb(230, 224, 218);
+    font-family: 'Raleway', sans-serif;
+  
+}
+
+.cnt {
+    text-align: center;
+    display: block;
+}
+    
+.black {
+    background-color: black;
+    color: white;
+}
+
+.left-wrapper {
+    margin: 30px 0 0 250px;
+    display: inline-block;
+
+}
+
+.left-first-container {
+    width: 700px;
+    background-color: white;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+.left-first-container img {
+    width: 100%;
+}
+
+.container-text {
+    font-size: 12px;
+    margin-left: 15px;
+}
+
+.left-first-container span {
+    color: grey;
+}
+
+.left-first-container button {
+    padding: 7px 11px;
+    border: 1px solid black;
+    display: inline-block;
+}
+
+.container-footer button {
+    display: inline-block;
+}
+
+.container-footer p {
+    display: inline-block;
+    margin-left: 450px;
+}
+
+.container-footer span {
+    margin-left: 5px;
+    color: white;
+    padding: 5px;
+    background-color: black;
+}
+
+.rigth-wrapper {
+    width: 350px;
+    height: 850px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 30px 20px 40px;
+}
+
+.rigth-first-container {
+    width: 350px;
+    height: 200px;
+    
+    
+}
+ 
+.rigth-first-container img {
+    width: 100%;
+    
+}
+
+.container-text1 {
+    width: 350px;
+    height: 120px;    
+    font-size: 12px;
+    background-color: white;
+    padding-top: 17px;
+  
+}
+
+h3 {
+    margin-top: 30px;
+}
+
+.post {
+    width: 350px;
+    height: 350px;
+    background-color:white;
+    text-align: left;
+   margin-top: 50px;
+}
+
+
+.pic1  {
+   height: 60px;
+   width: 350px;
+   margin-bottom: 6px;
+   border: 1px solid gainsboro;
+}
+
+.pic-div {
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+    
+}
+
+.pic-div img {
+    width: 100%;
+}
+
+.pic-text {
+    display: inline-block;
+    line-height: 5px;
+    vertical-align:top;
+    margin-left: 10px;
+}
+
+.ligth {
+    background-color:rgb(245, 241, 237);
+    width: 350px;
+    height: 50px;
+}
+
+.end {
+    background-color:rgb(245, 241, 237);  
+    width: 350px;
+    height: 40px;
+}
+
+.spans {
+    font-size: 12px;
+    line-height: 30px;
+    background-color: white;
+    
+}
+.spans span {
+    background-color:rgb(214, 211, 208);
+    margin:4px;
+}
+
+.black1 {
+    background-color: black !important;
+    color: white;
+}
+
+ 
+
